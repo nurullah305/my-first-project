@@ -1,6 +1,5 @@
 header{
-  background: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
-  
+  background: url("./Assets/Hero-bg.png")
 }
 /*Nav styles */
 .header{
