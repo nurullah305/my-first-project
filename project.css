@@ -1,0 +1,267 @@
+header{
+  background: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
+  
+}
+/*Nav styles */
+.header{
+ display: flex;
+  justify-content: space-between;
+}
+.nav-title{
+  margin-left: 150px;
+  margin-top: 50px;
+  color:#4E47FF;
+  font-weight:1000;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 34px; 
+}
+.header ul li{
+  list-style: none;
+}
+.header .btn-primary:hover{
+  background-color: aqua;
+ font-size: 20px;
+}
+ nav ul li a .btn-primary {
+   text-decoration: none;
+   margin-right: 150px;
+   margin-top: 50px;
+   font-size: 18px;
+   padding: 12px 36px;
+   border-radius: 10px;
+   background-color: #4E47FF;
+   color: white;
+}
+  
+ .drama{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:65px;
+  font-weight: bold;
+  color: #252432;
+ }
+ .btn-primary{
+  font-size: 14px;
+  padding: 12px 36px;
+    
+   border-radius: 10px;
+   background-color: #4E47FF;
+   color: white;
+   margin-bottom: 150px;
+    
+ }
+ .drama .btn-primary{
+  margin-top: 30px;
+ }
+ .nav-title .btn-primary:hover{
+ background-color: aqua;
+  font-size: 18px;
+ }
+ .btn-primary:hover{
+  background-color: aqua;
+  font-size: 18px;
+ }
+ /* main style */
+ 
+ 
+ .funny{
+  display: flex;
+  justify-content: space-between;
+   
+ }
+ .imf{
+  margin-right: 150px;
+  background-color: #252432;
+  margin-top: 150px;
+   border-radius: 10px;
+  
+  border-radius: 10px;
+ }
+ .funny-column{
+  margin-left: 150px;
+  margin-top: 116px;
+ 
+ }
+ .funny-title{
+  font-family: Arial, Helvetica, sans-serif;
+   font-size: 45px;
+  font-weight: bold;
+ }
+ .funny-sub-title{
+  font-size: 24px;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8987A1;
+ }
+ .daak{
+  text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 38px;
+ }
+ .main-2{
+  padding-top: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+  background-color: rgb(195, 195, 243);
+  margin: 150px 150px;
+  border-radius: 10px;
+ }
+ .run{
+  
+  display: flex;
+  justify-content: space-between;
+  
+  margin-top: 50px;
+  padding: ;
+
+ }
+ .Zero{
+  font-size: 80px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #4E47FF;
+
+ }
+ .anf{
+  font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   color:#252432
+ }
+.main-3 .funny-title{
+  text-align: center;
+}
+.apos{
+  display: flex;
+  justify-content: space-between;
+  margin: 150px 150px;
+}
+.ratings{
+    display: flex;
+  width: 25px;
+  height: 25px;
+}
+.rating{
+  width: 20px;
+  height: 20px;
+ 
+}
+.apo{
+  background-color: #f6f6f6;
+  padding: 24px;
+  
+}
+.img-size{
+  width: 30px;
+  height: 30px;
+}
+.ban-title{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 100px;
+font-weight: bold;
+margin: 150px; 
+}
+.ban{
+  display: flex;
+}
+label{
+  display: block;
+  font-size: 22px;
+}
+ 
+main{
+  background-color: #e0e7fa;
+ }
+form{
+   margin-top: 70px;
+ 
+
+}
+.ban{
+  padding-bottom: 70px;
+  padding-top: 70px;
+}
+ 
+.rain{
+  padding: 20px;
+   width: 100%;
+    margin-right: 150px;
+    font-size: 18px;
+    border-radius: 10px;
+    border:1px solid green;
+}
+textarea{
+  width: 100%;
+      margin-right: 150px;
+    font-size: 18px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    border: 1px solid green;
+}
+ 
+
+.none{
+  margin: 3px;
+}
+ .last-btn{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #4E47FF;
+  color:white;
+  margin-top: 5px;
+  width: 100%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 16px;
+  margin-right: 150px;
+  margin-top: 10px;
+  border-radius: 10px;
+ }
+ .last-btn:hover{
+  background-color: aqua;
+  font-size: 18px;
+ }
+.gone{
+  text-align: center;
+} 
+.gone-1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  font-size: 100px;
+ color: #4E47FF;
+} 
+.footer{
+  color: #8987A1;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+ 
+ 
+
+/* Footer Navigation Style */
+.footer-nav {
+   
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-nav ul li {
+  display: inline;
+  margin: 0 30px;
+}
+
+.footer-nav ul li a {
+  color: #8987A1;
+  text-decoration: none;
+   
+}
+
+.footer-nav ul li a:hover {
+  color: #ff3300;
+}
