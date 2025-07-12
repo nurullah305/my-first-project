@@ -20,7 +20,7 @@ header{
 }
 .header .btn-primary:hover{
   background-color: aqua;
- font-size: 20px;
+ 
 }
  nav ul li a .btn-primary {
    text-decoration: none;
@@ -55,26 +55,28 @@ header{
  }
  .nav-title .btn-primary:hover{
  background-color: aqua;
-  font-size: 18px;
+ 
  }
- .btn-primary:hover{
-  background-color: aqua;
-  font-size: 18px;
- }
+  
+  
  /* main style */
  
  
- .funny{
+.funny{
   display: flex;
   justify-content: space-between;
    
  }
  .imf{
-  margin-right: 150px;
+  margin-right: 160px;
    
   margin-top: 150px;
    border-radius: 10px;
   
+  
+ }
+ .remo{
+  border-radius: 10px;
   
  }
  .funny-column{
@@ -113,7 +115,7 @@ header{
   justify-content: space-between;
   
   margin-top: 50px;
-  padding: ;
+  
 
  }
  .Zero{
@@ -148,7 +150,7 @@ header{
 }
 .apo{
   background-color: #f6f6f6;
-  padding: 24px;
+  padding: 30px;
   
 }
 .img-size{
@@ -157,6 +159,7 @@ header{
 }
 .img-text{
   display: flex;
+  text-align: center;
 }
 .ban-title{
 font-family: Arial, Helvetica, sans-serif;
@@ -221,9 +224,8 @@ textarea{
   border-radius: 10px;
  }
  .last-btn:hover{
-  background-color: aqua;
-  font-size: 18px;
- }
+  background-color: aqua;}
+ 
 .gone{
   text-align: center;
 } 
@@ -265,6 +267,4 @@ textarea{
    
 }
 
-.footer-nav ul li a:hover {
-  color: #ff3300;
-}
+  
